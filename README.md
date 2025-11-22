@@ -1,1 +1,1 @@
-Terminal audio level indicator for OpenBSD
+Audio level indicator for OpenBSD
